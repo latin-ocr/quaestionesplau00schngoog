@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesplau00schngoog_0006.png"; bbox 0 0 4409 5675; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1773 2656 2500 2856">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1773 2656 2500 2856">
+     <span class='ocr_line' id='line_1_1' title="bbox 1773 2656 2500 2856; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1773 2656 2136 2856; x_wconf 47' lang='grc' dir='ltr'><strong>ἕλος</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2242 2794 2500 2854; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3146 5037 4047 5245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3146 5037 4047 5245">
+     <span class='ocr_line' id='line_1_2' title="bbox 3478 5037 3917 5119; baseline -0.014 -20"><span class='ocrx_word' id='word_1_3' title='bbox 3478 5037 3917 5119; x_wconf 86' lang='lat' dir='ltr'><strong>Imprimatur:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 3146 5149 4047 5245; baseline -0.006 -24"><span class='ocrx_word' id='word_1_4' title='bbox 3146 5160 3273 5245; x_wconf 46' lang='grc' dir='ltr'><strong>1,Ι)ι·.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3323 5155 3403 5223; x_wconf 85' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3450 5155 3531 5220; x_wconf 90' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3582 5155 3655 5216; x_wconf 82' lang='lat' dir='ltr'><strong>E.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 3704 5149 4047 5216; x_wconf 87' lang='lat' dir='ltr'><strong>WEYER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3408 5272 3806 5321">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3408 5272 3806 5321">
+     <span class='ocr_line' id='line_1_4' title="bbox 3408 5272 3806 5321; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 3408 5272 3459 5321; x_wconf 82' lang='lat' dir='ltr'><strong>h.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3496 5281 3532 5320; x_wconf 87' lang='lat' dir='ltr'><strong>t.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 3572 5273 3806 5320; x_wconf 75' lang='lat' dir='ltr'><strong>decanus.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
